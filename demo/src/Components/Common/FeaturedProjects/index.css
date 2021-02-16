@@ -1,0 +1,19 @@
+.projectButtons {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.eachButton {
+    margin-left: 16px;
+}
+
+.eachButton>button {
+    outline: none;
+    border: none;
+    padding: 9px 16px;
+    background: #010203;
+    font-size: 16px;
+    color: #FFF;
+    cursor: pointer;
+}
